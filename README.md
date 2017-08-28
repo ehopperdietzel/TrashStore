@@ -1,0 +1,2 @@
+# TrashStore
+Free trash store
